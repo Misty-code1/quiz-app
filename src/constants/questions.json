@@ -1,0 +1,200 @@
+[
+  {
+    "question": "Who was the third president of the United States of America?",
+    "answers": [
+    {"text": "Washington, George", "isCorrect": false},
+    {"text": "Adams, John", "isCorrect": false},
+    {"text": "Van Buren, Martin", "isCorrect": false},
+    {"text": "Jefferson, Thomas", "isCorrect": true}
+    ]
+    },
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      { "text": "Berlin", "isCorrect": false },
+      { "text": "Madrid", "isCorrect": false },
+      { "text": "Paris", "isCorrect": true },
+      { "text": "Rome", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      { "text": "Vincent van Gogh", "isCorrect": false },
+      { "text": "Leonardo da Vinci", "isCorrect": true },
+      { "text": "Pablo Picasso", "isCorrect": false },
+      { "text": "Claude Monet", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      { "text": "Earth", "isCorrect": false },
+      { "text": "Mars", "isCorrect": true },
+      { "text": "Venus", "isCorrect": false },
+      { "text": "Jupiter", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "What is the chemical symbol for water?",
+    "answers": [
+      { "text": "H2O", "isCorrect": true },
+      { "text": "CO2", "isCorrect": false },
+      { "text": "NaCl", "isCorrect": false },
+      { "text": "O2", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answers": [
+      { "text": "Harper Lee", "isCorrect": true },
+      { "text": "J.K. Rowling", "isCorrect": false },
+      { "text": "Mark Twain", "isCorrect": false },
+      { "text": "Charles Dickens", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answers": [
+      { "text": "China", "isCorrect": false },
+      { "text": "Japan", "isCorrect": true },
+      { "text": "South Korea", "isCorrect": false },
+      { "text": "Vietnam", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+      { "text": "William Shakespeare", "isCorrect": true },
+      { "text": "Charles Dickens", "isCorrect": false },
+      { "text": "Jane Austen", "isCorrect": false },
+      { "text": "F. Scott Fitzgerald", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "What is the largest mammal in the world?",
+    "answers": [
+      { "text": "Elephant", "isCorrect": false },
+      { "text": "Blue Whale", "isCorrect": true },
+      { "text": "Giraffe", "isCorrect": false },
+      { "text": "Hippopotamus", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Which country is home to the kangaroo?",
+    "answers": [
+      { "text": "Australia", "isCorrect": true },
+      { "text": "Brazil", "isCorrect": false },
+      { "text": "Canada", "isCorrect": false },
+      { "text": "India", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who wrote '1984'?",
+    "answers": [
+      { "text": "George Orwell", "isCorrect": true },
+      { "text": "J.R.R. Tolkien", "isCorrect": false },
+      { "text": "Stephen King", "isCorrect": false },
+      { "text": "Aldous Huxley", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "What is the capital of Japan?",
+    "answers": [
+      { "text": "Beijing", "isCorrect": false },
+      { "text": "Seoul", "isCorrect": false },
+      { "text": "Tokyo", "isCorrect": true },
+      { "text": "Shanghai", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who discovered penicillin?",
+    "answers": [
+      { "text": "Marie Curie", "isCorrect": false },
+      { "text": "Louis Pasteur", "isCorrect": false },
+      { "text": "Alexander Fleming", "isCorrect": true },
+      { "text": "Isaac Newton", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answers": [
+      { "text": "K2", "isCorrect": false },
+      { "text": "Mount Everest", "isCorrect": true },
+      { "text": "Kangchenjunga", "isCorrect": false },
+      { "text": "Makalu", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "answers": [
+      { "text": "Pablo Picasso", "isCorrect": false },
+      { "text": "Vincent van Gogh", "isCorrect": true },
+      { "text": "Claude Monet", "isCorrect": false },
+      { "text": "Leonardo da Vinci", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "What is the currency of Germany?",
+    "answers": [
+      { "text": "Euro", "isCorrect": true },
+      { "text": "Dollar", "isCorrect": false },
+      { "text": "Pound", "isCorrect": false },
+      { "text": "Yen", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "answers": [
+      { "text": "Mark Twain", "isCorrect": false },
+      { "text": "F. Scott Fitzgerald", "isCorrect": true },
+      { "text": "George Orwell", "isCorrect": false },
+      { "text": "Jane Austen", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "What is the smallest country in the world?",
+    "answers": [
+      { "text": "Monaco", "isCorrect": false },
+      { "text": "Vatican City", "isCorrect": true },
+      { "text": "Maldives", "isCorrect": false },
+      { "text": "San Marino", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who was the first man to step on the moon?",
+    "answers": [
+      { "text": "Buzz Aldrin", "isCorrect": false },
+      { "text": "Yuri Gagarin", "isCorrect": false },
+      { "text": "Neil Armstrong", "isCorrect": true },
+      { "text": "Alan Shepard", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answers": [
+      { "text": "Au", "isCorrect": true },
+      { "text": "Ag", "isCorrect": false },
+      { "text": "Fe", "isCorrect": false },
+      { "text": "Cu", "isCorrect": false }
+    ]
+  }
+]
